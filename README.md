@@ -39,5 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   ## 🖼️ Imagens
 
-![smartmockups_lnxtsrnd](https://github.com/AlvaroHenriqueSilva/barbearia/assets/113359747/bd3f66e2-64c0-4b7e-a4d4-efdb14c83b95)
+<p align="center">
+  <img src="https://github.com/AlvaroHenriqueSilva/barbearia/assets/113359747/bd3f66e2-64c0-4b7e-a4d4-efdb14c83b95"/>
+</p>
 
