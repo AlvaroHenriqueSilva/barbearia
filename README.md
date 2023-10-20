@@ -3,19 +3,11 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GuilhermeManzano/chess-system-java">
+  <img align="center" height="30" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="50" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="50" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" height="30" width="50" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg?short_path=4ca44ff">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GuilhermeManzano/chess-system-java">
-
-  <a href="https://github.com/GuilhermeManzano/projeto-base-conhecimento/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GuilhermeManzano/chess-system-java">
-  </a>
-
-  <a href="https://github.com/GuilhermeManzano/projeto-base-conhecimento/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/GuilhermeManzano/chess-system-java">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <p align="center">
